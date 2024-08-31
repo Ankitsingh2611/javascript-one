@@ -2,7 +2,7 @@
 
 ## 🏠 [Namaste Javascript Notes Website](https://ankitsingh2611.github.io/javascript-one/dist/lectures.html)
 
-## 🚀 [PDF Version of Complete Notes](./dist/javascript-one.pdf)
+## 🚀 [PDF Version of Complete Notes](./dist/namaste-javascript-notes.pdf)
 
 <br>
 
